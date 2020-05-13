@@ -1,6 +1,6 @@
 ## Mobile Application for the University of Wyoming Study Abroad Office
   
-##### Sam "Alice" Blair, Winston Howard, Ethan McGarvey, Chance Sweetser 
+##### Alice Blair, Winston Howard, Ethan McGarvey, Chance Sweetser 
  
 ### Project summary
 The objective of this project is to provide the University of Wyoming Study Abroad Office with a mobile application to help students with participation in education abroad. We hope to deliver an application that can be a central source of resources for those considering applying, currently abroad, and incoming foreign students. A single application that can offer support to students will benefit the students so that they are able to find information they need and stay connected to both UW and their abroad location with ease. Participating in the University of Wyoming’s education abroad can be a fulfilling experience, but also intimidating so we hope to produce an application which will help guide the student through all stages of the process. 
